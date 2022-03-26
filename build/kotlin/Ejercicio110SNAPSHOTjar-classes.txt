@@ -1,0 +1,1 @@
+C:\Users\frank\IdeaProjects\Ejercicio1\build\classes\kotlin\main\MainKt.class;C:\Users\frank\IdeaProjects\Ejercicio1\build\classes\kotlin\main\controller\PersonaController.class;C:\Users\frank\IdeaProjects\Ejercicio1\build\classes\kotlin\main\model\Persona.class;C:\Users\frank\IdeaProjects\Ejercicio1\build\classes\kotlin\main\view\PersonaView.class
